@@ -1,0 +1,11 @@
+{
+    "pedidos": {
+        "ultimo_id": 320,
+        "ultima_data_processada": "2026-03-04"
+    },
+    "itens_pedido": {
+        "ultima_execucao": null
+    },
+    "clientes": {},
+    "produtos": {}
+}
